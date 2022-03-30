@@ -14,5 +14,5 @@ escreva("Digite o Primeiro número ")
 leia(x)
 escreva("Digite o segundo número ")
 escreva("A soma dos números é : ", x + y)
-           ||| luiz eduardo
+           luiz eduardo
 Fimalgoritmo
