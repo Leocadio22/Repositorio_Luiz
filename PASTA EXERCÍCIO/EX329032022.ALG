@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "EX3"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Hiram Amaral 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -13,8 +13,9 @@ Inicio
   escreval("======Cálculo de consumo médio de combustivel======")
   escreva("Digite a Distância percorrida: ")
   leia (distancia)
-  escreva("Digite o combustivel gasto")
+  escreva("Digite o combustivel gasto ")
   leia(combustivel)
-  escreval("O consumo médio de combustivel do seu carro é:
+  escreval("O consumo médio de combustivel do seu carro é: ", distancia / combustivel)
+  
 
 Fimalgoritmo

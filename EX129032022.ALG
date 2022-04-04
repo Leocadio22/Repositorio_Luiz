@@ -1,18 +1,17 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Hiram Amaral 
-// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 29/03/2022
 Var
-// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
+// Seção de Declarações das variáveis 
      x,y: inteiro
 
 Inicio
-// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
-escreva("Digite o Primeiro nÃºmero ")
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("Digite o Primeiro número ")
 leia(x)
-escreva("Digite o segundo nÃºmero ")
-escreva("A soma dos nÃºmeros Ã© : ", x + y)
-           luiz eduardo
+escreva("Digite o segundo número ")
+escreva("A soma dos números é : ", x + y)
 Fimalgoritmo
